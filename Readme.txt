@@ -1,8 +1,3 @@
-# Kirchhoff
-calculating the added-mass tensors for rigid body dynamics  
-In some papers, it is called Kirchhoff tensor.  
-The basic method is from potential flow theory.  
-
 The plate size is 0.02x0.3*0.5m with the following resolutions.
 plate2.obj v 578 f 1152
 plate2a.obj v 2306 f 4608
@@ -26,3 +21,6 @@ The comparison error is not antcipated.
 
 [1]W. B. Wang et.al., Influence of aspect ratio on tumbling plates,J. Fluid Mech. (2013)
 [2]A. Anderson et.al., Unsteady aerodynamics of fluttering and tumbling plates, J. Fluid Mech. (2005)
+
+--
+HAORAN XIE
